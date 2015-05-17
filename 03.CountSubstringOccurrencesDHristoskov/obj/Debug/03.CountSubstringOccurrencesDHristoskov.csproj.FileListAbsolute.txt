@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrencesDHristoskov\bin\Debug\03.CountSubstringOccurrencesDHristoskov.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrencesDHristoskov\bin\Debug\03.CountSubstringOccurrencesDHristoskov.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrencesDHristoskov\bin\Debug\03.CountSubstringOccurrencesDHristoskov.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrencesDHristoskov\obj\Debug\03.CountSubstringOccurrencesDHristoskov.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrencesDHristoskov\obj\Debug\03.CountSubstringOccurrencesDHristoskov.pdb

@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\01.ReverseString\obj\Debug\01.ReverseString.pdb

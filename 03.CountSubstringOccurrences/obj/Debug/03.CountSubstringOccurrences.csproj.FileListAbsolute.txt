@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.StringsTextProcessing\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.csprojResolveAssemblyReference.cache

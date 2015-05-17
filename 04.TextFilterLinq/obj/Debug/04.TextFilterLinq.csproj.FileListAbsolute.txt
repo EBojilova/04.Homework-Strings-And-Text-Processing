@@ -1,0 +1,1 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.StringsTextProcessing\04.TextFilterLinq\bin\Debug\04.TextFilterLinq.exe.config
